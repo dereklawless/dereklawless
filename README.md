@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋
 
 ### On my blog
 
