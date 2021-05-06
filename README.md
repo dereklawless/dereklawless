@@ -1,6 +1,9 @@
 ## 👋
 
 ### On my blog
+[The unknown Type in TypeScript](https://dereklawless.ie/the-unknown-type-in-typescript/)
+<br>21st April 2021
+
 [Nemawashi](https://dereklawless.ie/nemawashi/)
 <br>21st January 2021
 
@@ -12,9 +15,6 @@
 
 [Sieve of Eratosthenes](https://dereklawless.ie/sieve-of-eratosthenes/)
 <br>7th November 2020
-
-[Fallacies of Distributed Computing: 8. The network is homogeneous](https://dereklawless.ie/fallacies-of-distributed-computing-8-the-network-is-homogeneous/)
-<br>30th June 2020
 
 ---
 More on [dereklawless.ie](https://dereklawless.ie/)
