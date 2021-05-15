@@ -1,6 +1,6 @@
 ## 👋
 
-### On my blog
+### Writing
 [The unknown Type in TypeScript](https://dereklawless.ie/the-unknown-type-in-typescript/)
 <br>21st April 2021
 
@@ -16,9 +16,9 @@
 [Sieve of Eratosthenes](https://dereklawless.ie/sieve-of-eratosthenes/)
 <br>7th November 2020
 
----
-More on [dereklawless.ie](https://dereklawless.ie/)
+More on [dereklawless.ie](https://dereklawless.ie)
 
+---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dereklawless&count_private=true&show_icons=true&hide_title=true)
 
 <!--
