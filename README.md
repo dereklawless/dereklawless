@@ -1,6 +1,9 @@
 ## 👋
 
 ### Writing
+[Conditionally tagging resources in CloudFormation](https://dereklawless.ie/conditionally-tagging-resources-in-cloudformation/)
+<br>27th April 2022
+
 [The unknown Type in TypeScript](https://dereklawless.ie/the-unknown-type-in-typescript/)
 <br>21st April 2021
 
@@ -12,9 +15,6 @@
 
 [Binary Search](https://dereklawless.ie/binary-search/)
 <br>21st November 2020
-
-[Sieve of Eratosthenes](https://dereklawless.ie/sieve-of-eratosthenes/)
-<br>7th November 2020
 
 More on [dereklawless.ie](https://dereklawless.ie)
 
