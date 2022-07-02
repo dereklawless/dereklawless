@@ -1,6 +1,9 @@
 ## 👋
 
 ### Writing
+[Downloading Lambda layer versions using the AWS CLI](https://dereklawless.ie/downloading-lambda-layers-versions-using-the-aws-cli/)
+<br>16th June 2022
+
 [Conditionally tagging resources in CloudFormation](https://dereklawless.ie/conditionally-tagging-resources-in-cloudformation/)
 <br>27th April 2022
 
@@ -9,12 +12,6 @@
 
 [Nemawashi](https://dereklawless.ie/nemawashi/)
 <br>21st January 2021
-
-[My year in review](https://dereklawless.ie/my-year-in-review/)
-<br>13th January 2021
-
-[Binary Search](https://dereklawless.ie/binary-search/)
-<br>21st November 2020
 
 More on [dereklawless.ie](https://dereklawless.ie)
 
