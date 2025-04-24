@@ -1,6 +1,9 @@
 ## 👋
 
 ### Writing
+[Towards Effective Standups](https://dereklawless.ie/towards-effective-standups/)
+<br>3rd April 2025
+
 [Downloading Lambda layer versions using the AWS CLI](https://dereklawless.ie/downloading-lambda-layers-versions-using-the-aws-cli/)
 <br>16th June 2022
 
